@@ -2,7 +2,9 @@
 title: "Prueba repositorio"
 author: "Miguel Tripp Valdez"
 date: "8/4/2021"
-output: html_document
+output: 
+  html_document:
+  keep_md: true
 ---
 
 ```{r setup, include=FALSE}
